@@ -26,4 +26,4 @@ Fraudulent Credit Card transactions detection using PyCaret and other ML models
 
 ## Result ummary
 We received an accuray of  99.96% which is atleast 0.01 % higher than most models avalable online. Also, the confusion matrix shows that our model is not overfitted. This number should not be surprising as our data was balanced towards one class. The accuracy in our credit card fraud detection when oversampling with SMOTE is used is 99.99% for both 'random forest' techniqueand NN architecture.
-https://github.com/olalekanfayemi/Credit-Card-Fraud-Detection/blob/main/NN%20result.PNG
+NN%20result.PNG
